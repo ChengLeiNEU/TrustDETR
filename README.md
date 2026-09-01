@@ -6,7 +6,7 @@ Detection results on three benchmarks:
 
 ### RGBTDronePerson
 
-![RGBTDronePerson](assets/examples/RGBTDroneperson.jpg)
+![RGBTDronePerson](TrustDETR_demo/assets/examples/RGBT-Tiny.jpg)
 
 ### VTUAV
 
