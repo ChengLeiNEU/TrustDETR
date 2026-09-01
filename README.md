@@ -10,11 +10,11 @@ Detection results on three benchmarks:
 
 ### VTUAV
 
-![VTUAV](assets/examples/VTUAV.jpg)
+![VTUAV](TrustDETR_demo/assets/examples/VTUAV.jpg)
 
 ### RGBT-Tiny
 
-![RGBT-Tiny](assets/examples/RGBT-Tiny.jpg)
+![RGBT-Tiny](TrustDETR_demo/assets/examples/RGBT-Tiny.jpg)
 
 **The full release — including training code and pretrained models — will be made public immediately after the paper is officially accepted.**
 
