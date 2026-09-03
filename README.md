@@ -25,8 +25,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open `http://localhost:7860` to view the result gallery.
-
 ## Citation
 
 ```bibtex
